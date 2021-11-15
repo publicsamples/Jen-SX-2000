@@ -3,7 +3,7 @@
 Sounds from the Jen SX-2000
 
 -   **Patches**: 2
--   **Formats:** EXS24, Kontakt & SFZ
+-   **Formats:** EXS24 & Kontakt
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/misc2.html)
 
 
